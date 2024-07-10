@@ -13,7 +13,7 @@ https://github.com/DeptoIBD-INEGI/PluginQGIS/raw/main/procesa_entrega_ibd_proces
 <pyqgis_plugin name="Reproyecta para Censos 6365 a 6372" version="1.0">
 <description>Reproyecta Censos</description>
 <about>Realiza la proyección de 6365 a 6372 de las imágenes base del servicio SIDAISAR, utiliza la herramienta Combar. Como parte de la herramienta se aplica la compresión "Alta Compresión". El formato de salida es JPG y se genera el archivo JGW a partir del WLD.</about>
-<version>2.0</version>
+<version>1.0</version>
 <qgis_minimum_version>3.0</qgis_minimum_version>
 <author_name>Jorge Parada</author_name>
 <download_url>
