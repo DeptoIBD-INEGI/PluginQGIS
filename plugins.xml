@@ -18,5 +18,14 @@ https://github.com/DeptoIBD-INEGI/PluginQGIS/raw/main/procesa_entrega_ibd_proces
 <download_url>
 https://github.com/DeptoIBD-INEGI/PluginQGIS/raw/main/ReproyectaCensos.zip</download_url>
 </pyqgis_plugin>
+<pyqgis_plugin name="Index Recursivo" version="1.0">
+<description>Index Recursivo</description>
+<about>Itera una ruta dada y aplica el comando de gdaltindex para cada una de las carpetas que se encuentre. Se puede personalizar el EPSG del shape resultante y el formato de búsqueda de las imágenes.</about>
+<version>1.0</version>
+<qgis_minimum_version>3.0</qgis_minimum_version>
+<author_name>Jorge Parada</author_name>
+<download_url>
+https://github.com/DeptoIBD-INEGI/PluginQGIS/raw/main/index_recursivo_processing.zip</download_url>
+</pyqgis_plugin>
 <!-- Agrega más bloques <pyqgis_plugin> para otros complementos -->
 </plugins>
