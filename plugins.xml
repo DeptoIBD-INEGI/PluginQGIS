@@ -9,10 +9,10 @@
 <download_url>
 https://github.com/DeptoIBD-INEGI/PluginQGIS/raw/main/procesa_entrega_ibd_processing.zip</download_url>
 </pyqgis_plugin>
-<pyqgis_plugin name="Vistas rápidas" version="1.0">
+<pyqgis_plugin name="Vistas rápidas" version="1.1">
 <description>Procesamiento de imágenes n2</description>
 <about>Itera una ruta con imágenes base y genera su remuestro al 10 porciento.</about>
-<version>1.0</version>
+<version>1.1</version>
 <qgis_minimum_version>3.0</qgis_minimum_version>
 <author_name>Jorge Parada</author_name>
 <download_url>
