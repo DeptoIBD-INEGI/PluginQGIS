@@ -61,7 +61,7 @@ https://github.com/DeptoIBD-INEGI/PluginQGIS/raw/main/valida_actualizacion.zip</
 <qgis_minimum_version>3.0</qgis_minimum_version>
 <author_name>Jorge Parada</author_name>
 <download_url>
-https://github.com/DeptoIBD-INEGI/PluginQGIS/raw/main/procesa_entrega_ibd_processing.zip</download_url>
+https://github.com/DeptoIBD-INEGI/PluginQGIS/raw/refs/heads/main/Reproyectar.zip</download_url>
 </pyqgis_plugin>
 <!-- Agrega más bloques <pyqgis_plugin> para otros complementos -->
 </plugins>
