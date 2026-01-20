@@ -72,7 +72,7 @@ https://github.com/DeptoIBD-INEGI/PluginQGIS/raw/main/valida_actualizacion.zip</
 <download_url>
 https://github.com/DeptoIBD-INEGI/PluginQGIS/raw/refs/heads/main/Reproyectar.zip</download_url>
 </pyqgis_plugin>
-<pyqgis_plugin name="Generador SQL de Objetos Geográficos" version="0.1">
+<pyqgis_plugin name="GeneraScriptSQL" version="0.1">
 <description>Genera la estructura SQL de objetos geográficos a partir de un catálogo en formato XLSX.</description>
 <about>El plugin lee un archivo XLSX que contiene el catálogo de objetos geográficos y su estructura en base de datos. A partir de este catálogo, el usuario puede seleccionar un objeto específico y obtener automáticamente la sentencia SQL correspondiente.
 </about>
@@ -84,4 +84,5 @@ https://github.com/DeptoIBD-INEGI/PluginQGIS/raw/refs/heads/main/genera_scriptsq
 </pyqgis_plugin>
 <!-- Agrega más bloques <pyqgis_plugin> para otros complementos -->
 </plugins>
+
 
