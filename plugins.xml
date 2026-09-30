@@ -82,8 +82,17 @@ https://github.com/DeptoIBD-INEGI/PluginQGIS/raw/refs/heads/main/Reproyectar.zip
 <download_url>
 https://github.com/DeptoIBD-INEGI/PluginQGIS/raw/refs/heads/main/genera_scriptsql.zip</download_url>
 </pyqgis_plugin>
+<pyqgis_plugin name="Validador COG" version="0.1">
+<description>Validador de estructuras de objetos geoespaciales</description>
+<about>Validador de estructuras de objetos geoespaciales
+</about>
+<version>0.1</version>
+<qgis_minimum_version>3.0</qgis_minimum_version>
+<author_name>Jorge Parada</author_name>
+<download_url>
+https://github.com/DeptoIBD-INEGI/PluginQGIS/raw/refs/heads/main/ValidadorCOG.zip</download_url>
+</pyqgis_plugin>
 <!-- Agrega más bloques <pyqgis_plugin> para otros complementos -->
 </plugins>
-
 
 
